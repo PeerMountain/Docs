@@ -9,6 +9,8 @@ KYC AP description https://docs.google.com/document/d/1mJMUl2sqtTfpH7DQefb4Brfb6
 
 Tokenomics doc https://docs.google.com/document/d/1zbw81X-KKXzOP4NoG13vijVJnaWRnCIss17hsMaPY2g/edit
 
+How to set up an Attestation Engine https://github.com/PeerMountain/attestation-engine/blob/master/Readme.md 
+
 *TODO*
 1. Finish component libraries
 2. Wire up mobile app
